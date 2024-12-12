@@ -1,0 +1,24 @@
+:root {
+  background: linear-gradient(0deg, white, blue);
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+#github-logo {
+  margin-left: 15px;
+  color: white;
+}
+
+#github-logo:hover {
+  font-size: 34px;
+  color: purple;
+}
+
+svg {
+  background-color: white;
+  border-radius: 1%;
+  box-shadow: 4px;
+  padding-top: 10px;
+}
